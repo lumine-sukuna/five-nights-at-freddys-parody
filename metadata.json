@@ -1,0 +1,6 @@
+{
+  "name": "Nocturnal Terror: Abandoned Hub",
+  "description": "An immersive 3D-style horror survival game set in an abandoned entertainment hub, inspired by FNAF, playable in-browser and featuring ready-to-use C# Unity scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
